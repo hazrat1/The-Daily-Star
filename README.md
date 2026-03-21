@@ -5,7 +5,7 @@ An automated archiving system that fetches daily news articles using The Daily S
 
 ## ⚠️ Disclaimer
 
-This repository utilizes automation scripts to aggregate and format content from news platforms for **personal and non-commercial use only**. The primary goal is to provide a better reading experience on E-Ink devices.
+This repository utilizes RSS Feeds to aggregate and format content from news platforms for **personal and non-commercial use only**. The primary goal is to provide a better reading experience on E-Ink devices.
 
 **Caution:**
 
@@ -22,4 +22,4 @@ This repository utilizes automation scripts to aggregate and format content from
 
 If you enjoy these daily editions and would like to receive them **automatically** delivered to your Kindle or Email every day without any manual effort, consider supporting this project.
 
-👉 **[Click here to Request Automatic Delivery](mailto:hazrat.dev@protonmail.com?subject=Automatic%20Kindle%20Delivery%20Request&body=Hi%2C%0A%0AI%20want%20to%20donate%20to%20get%20automatic%20delivery%20for:%0A%0AMy%20Email/Kindle%20Address:%20)**
+👉 **[Click here to Request Automatic Delivery](https://feed.softloftbd.ga/donation.php)**
